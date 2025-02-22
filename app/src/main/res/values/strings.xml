@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cadastro</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="nome_label">Nome completo</string>
+    <string name="nome_hint">Digite seu nome completo</string>
+    <string name="telefone_label">Telefone</string>
+    <string name="telefone_hint">Digite seu número de telefone</string>
+    <string name="email_label">Email</string>
+    <string name="email_hint">Digite seu email</string>
+    <string name="email_list_checkbox_label">Ingressar na lista de e-mails?</string>
+    <string name="sexo_label">Sexo</string>
+    <string name="masculino_rb">Masculino</string>
+    <string name="feminino_rb">Feminino</string>
+    <string name="cidade_label">Cidade</string>
+    <string name="cidade_input">Digite o nome da sua cidade</string>
+    <string name="limpar_btn">Limpar</string>
+    <string name="salvar_btn">Salvar</string>
+    <string-array name="uf">
+        <item>SP</item>
+        <item>PR</item>
+        <item>MG</item>
+    </string-array>
+</resources>
